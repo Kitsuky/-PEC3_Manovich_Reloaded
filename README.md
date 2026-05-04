@@ -13,6 +13,9 @@ Pero su mayor atractivo es su metodología de trabajo en base a un sistema de no
 Tomando estrictamente la metodología que usa para crear imágenes, Comfyui trabaja con unos módulos de IA pre-entrenados en base a un dataset que una vez entrenado utilizando imágenes y prompts asociados a esas imágenes, se almacena toda esa información relacionada creando un nuevo modelo perosnalizado según los patrones coincidentes de ese dataset. 
 Este traspaso de lo visual al código, es un ejemplo de transcodificación que pasa de un formato visual digital como lo entendemos como una imagen en formato de pixeles a uno de numeración algorítmica probabilística en formato “espacio latente” que comprime y hace las imágenes entendibles para los cálculos matemáticos.
 
+![Diagrama1](img/Sin_titulo.png)
+_Diagrama de como se entrena un modelo_
+
 Una vez obteniendo el modelo entrando, se puede utilizar como modelo generativo donde una persona escribe un prompt de lo que desea y el modelo entrenado hace el resto creando una nueva imagen, por lo tanto, se volvería a transcodificar el espacio algorítmico latente de nuevo en imagen creando un “remix” en base compartida de los datos del prompt y el dataset del modelo entrenado.
 
 <h2>El remix inverosímil es posible</h2>
