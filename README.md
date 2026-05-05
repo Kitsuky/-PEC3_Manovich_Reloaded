@@ -29,7 +29,7 @@ En la hibridación descrita por Manovich, hace un énfasis personal de que no ha
 Un ejemplo de esta separación se daría en un proyecto de video en Comfyui. El sonido y el video están separados por lo que se consideraría 2 elementos de multimedia que no se unen, pero a partir de ahí, es donde empieza la magia ya que puedes trabajar según distintos métodos de hibridez o tengan un nivel más o menos profundo según el workflow. 
 
 
-![Imagen Bufalo](img/Hibridacion1.jpg)
+![Imagen Bufalo](img/Hibridacion1.png)
 
 _Imagen generada del proceso y conlleva a un estilo muy difícilmente replicable vía otros métodos._
 
