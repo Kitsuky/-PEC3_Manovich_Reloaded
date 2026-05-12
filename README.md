@@ -92,7 +92,8 @@ _Imagen de archivo Tinkercad: Alumnos usando el Programa._
 
 Siguiendo esa filosofía de modelado libre y fomentando la imaginación del usuario, da accesibilidad a las ideas de los usuarios dando guías con ejemplos, tutoriales, construcción en cuadricula, etc.  
 
- ![Dragon en bloques con Tinkercad](img/Tinkercad_Brickify.png)
+ ![Dragon en bloques con Tinkercad](img/Tinkercad_Birckify.png)
+ 
 _Modelo de un dragón usando una de las funciones Brickify de Tinkercad._
 
 <h3>Unidos por la robótica</h3>
@@ -101,11 +102,13 @@ Por una parte, tenemos un remix técnico con la incorporación de piezas electr�
 de tal mezcla de medios ayuda a que veas el producto final digital teniendo la ventaja de no hacer las pruebas con material físico que, si no se produce la adecuación técnica, puede estropear los componentes y tener pérdidas de tiempo y económicos.
 
  ![Coche de F1 hecho en Tinkercad](img/Rally_Tinkercad.png)
+ 
 _Coche con componentes electrónicos representados en Tinkercad._
 
 Por otra parte, tenemos el remix productivo. Digamos que quiero crear un ratón personalizado y lo puedes diseñar por ti mismo, pero gracias a un modelo externo hecho por otra persona, puedes reaprovechar ese blueprint para hacer tus modificaciones o mejorar lo ya creado. Este tipo de interacción entre la comunidad “maker”, ha ayudado en gran medida a evolucionar la hibridación entre los medios del programa aportando conocimiento directo y una gran “mix” de modelos en forma de biblioteca que beneficia tanto a las personas que empiezan al mundo de la robótica como gente experta que lo usa como herramienta de trabajo.
 
  ![Pagina web de proyectos Tinkercad](img/Biblioteca_Tinkercad.jpg)
+ 
 _Proyectos de la comunidad de Tinkercad disponibles para todo el mundo._
 
 <h3>La patata viviente</h3>
@@ -119,16 +122,19 @@ Tomando un ejemplo más directo, y la referencia de esta cita de Manovich:
 Este proyecto sobre un robot que coge una patata y lo incorpora dentro de una estructura robótica, engloba bien esta cita y todo lo mencionado anteriormente.
 
  ![Introduccion patata robot Kartof](img/Amo_Kartof.png)
+ 
 _Proyecto “I Love Kartof Robot” Un robot que se desliza y tiene como elemento estilístico central: una patata_
 
 Utilizando unas piezas ya ensambladas de electrónica como base de funcionamiento, estas están incorporadas digitalmente en Tinkercad como preset para que puedas diseñar la estructura mecánica en 3D. Una vez diseñada las partes, puedes emular la estructura del robot y ahí no queda, tenemos que nombrar un elemento que hasta ahora no se ha hablado y es ¡el coding! 
 
  ![Imagen de la placa y el circuito digital](img/Placa_y_Coding.png)
+ 
 _Componente electrónico simulado y el coding de comportamiento del robot._
 
 Solo con el ensamblaje se diseñaría un robot aburrido y sin comportamiento especial por lo que añadiendo la capa de hibridación del coding, puedes hacer que el robot se mueva de una manera personalizada y al tener el robot una pantalla de leds incorporada, puedes escribir en código, lo que quieres mostrar en la pantalla.
 
  ![Robot acabado](img/Patata_kartof.jpg)
+ 
 _Proyecto ensamblado físicamente usando la patata._
 
 
@@ -137,11 +143,13 @@ Tinkercad a simple vista puede parecer un programa de modelado 3D simple y sin n
 Ejemplos como el de la patata es la punta del iceberg ya que, a nivel personal, he visto que se ha utilizado Tinkercad como zona de pruebas para el uso y funcionamiento de props de Cosplay que se han utilizado en concursos nacionales e internacionales
 
  ![Pistola laser DIY](img/Blaster.jpg)
+ 
 _Prop blaster hehco en Tinkercad._
 
 y de manera más funcional/humano, se han utilizado prototipos de manos prostéticas para personas con discapacidad motora. 
 
  ![Niño con brazo prostetico](img/Humanos3D-cover.jpg)
+ 
 _Protesis de brazo utilizando la impresión 3D y la electronica como medio en conjunto._
 
 La infinidad de uso de esta herramienta es digno de mención como un caso de hibridación Manovich certificada.
