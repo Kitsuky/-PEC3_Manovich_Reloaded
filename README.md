@@ -141,7 +141,7 @@ _Prop blaster hehco en Tinkercad._
 
 y de manera más funcional/humano, se han utilizado prototipos de manos prostéticas para personas con discapacidad motora. 
 
- ![Niño con brazo prostetico](img/Humanos·D-cover.jpg)
+ ![Niño con brazo prostetico](img/Humanos3D-cover.jpg)
 _Protesis de brazo utilizando la impresión 3D y la electronica como medio en conjunto._
 
 La infinidad de uso de esta herramienta es digno de mención como un caso de hibridación Manovich certificada.
